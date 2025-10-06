@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Gev
 
+I'm a passionate full-stack developer with a strong focus on .Net and the serverless stack. I enjoy building innovative solutions, optimizing code, and constantly learning new technologies.
 <!--
 **Gvo87/Gvo87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
